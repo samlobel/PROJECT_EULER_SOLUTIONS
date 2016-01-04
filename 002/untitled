@@ -1,0 +1,6 @@
+
+
+
+
+def brute_force_palindrome(num):
+	
